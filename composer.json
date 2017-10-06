@@ -1,24 +1,24 @@
 {
-    "name": "jordij/sweet-captcha",
-    "description": "Sweet Captcha for Laravel 4",
+    "name": "maxl28/sweet-captcha",
+    "description": "Sweet Captcha for Laravel 5",
     "license":"MIT",
-    "keywords": ["laravel","laravel 4", "sweetcaptcha", "captcha"],
+    "keywords": ["laravel","laravel 5", "sweetcaptcha", "captcha"],
     "authors": [
         {
-            "name": "Jordi J. Tablada",
-            "email": "hi@jordijoan.me"
+            "name": "Maximilian Walter",
+            "email": "mw@harmony-solutions.de"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "classmap": [
             "src/migrations"
         ],
         "psr-0": {
-            "Jordij\\SweetCaptcha\\": "src/"
+            "maxl28\\SweetCaptcha\\": "src/"
         }
     },
     "minimum-stability": "stable"

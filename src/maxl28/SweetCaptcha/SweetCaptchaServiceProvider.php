@@ -1,4 +1,4 @@
-<?php namespace Jordij\SweetCaptcha;
+<?php namespace maxl28\SweetCaptcha;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Lang;
